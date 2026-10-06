@@ -1,0 +1,14 @@
+{
+  "siteName": "Techne",
+  "eyebrow": "PERSONALIZADOS",
+  "heroTitle": "Escolha sua arte.",
+  "heroText": "Encontre seu produto, escolha a quantidade e envie o pedido direto pelo WhatsApp.",
+  "searchPlaceholder": "Buscar produto, tema ou código...",
+  "footerText": "Techne • Produtos personalizados",
+  "whatsapp": "5565999999999",
+  "primary": "#ef174d",
+  "secondary": "#05a4a9",
+  "accent": "#ffb000",
+  "showThemes": true,
+  "showSearch": true
+}

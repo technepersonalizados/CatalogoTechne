@@ -1,0 +1,13 @@
+[
+{"id":"canecas","name":"Canecas","active":true},
+{"id":"garrafas","name":"Garrafas","active":true},
+{"id":"camisas","name":"Camisas","active":true},
+{"id":"bottons","name":"Bottons","active":true},
+{"id":"ima-geladeira","name":"Imã de geladeira","active":true},
+{"id":"chaveiros","name":"Chaveiros","active":true},
+{"id":"bones","name":"Bonés","active":true},
+{"id":"azulejo","name":"Azulejo personalizado","active":true},
+{"id":"canetas","name":"Canetas personalizadas","active":true},
+{"id":"copos","name":"Copos personalizados","active":true},
+{"id":"pano-prato","name":"Pano de prato personalizável","active":true}
+]

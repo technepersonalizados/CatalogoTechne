@@ -1,0 +1,14 @@
+[
+  {
+    "id":"can-001",
+    "name":"Caneca branca de cerâmica",
+    "code":"CAN-001",
+    "description":"Caneca branca de cerâmica personalizada.",
+    "categoryId":"canecas",
+    "themeId":"",
+    "image":"assets/products/placeholder.svg",
+    "active":true,
+    "price":35,
+    "tiers":[{"min":2,"price":32},{"min":11,"price":27}]
+  }
+]

@@ -1,0 +1,10 @@
+[
+{"id":"esportes","name":"Esportes","active":true},
+{"id":"professores","name":"Dia dos Professores","active":true},
+{"id":"maes","name":"Dia das Mães","active":true},
+{"id":"pais","name":"Dia dos Pais","active":true},
+{"id":"aniversario","name":"Aniversário","active":true},
+{"id":"casamento","name":"Casamento","active":true},
+{"id":"infantil","name":"Infantil","active":true},
+{"id":"profissoes","name":"Profissões","active":true}
+]
